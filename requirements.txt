@@ -1,1 +1,2 @@
+python==3.9
 scikit-rt==0.3.32
